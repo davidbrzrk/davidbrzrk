@@ -1,4 +1,11 @@
-### Sou o David Gabriel, tenho 23 anos e estou estudando para ser desenvolvedor front-end.
+### Olá, sou o David Araujo
+Tenho 23 anos
+
+Sou de São Paulo
+
+Estou estudando para ser desenvolvedor front-end
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=davidbrzrk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
